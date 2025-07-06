@@ -1,0 +1,6 @@
+Analyzing notesapp...                                           
+
+   info • Don't use 'BuildContext's across async gaps • lib/screens/login_screen.dart:48:42 • use_build_context_synchronously
+   info • Don't use 'BuildContext's across async gaps • lib/screens/notes_list_screen.dart:82:31 • use_build_context_synchronously
+   info • Don't use 'BuildContext's across async gaps • lib/screens/signup_screen.dart:48:42 • use_build_context_synchronously
+
